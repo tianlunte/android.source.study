@@ -27,3 +27,15 @@
 #main_box {
     padding: 2rem 4rem;
 }
+
+.main_article_item {
+    margin-bottom: 1em;
+    font-size: 1.1rem;
+    line-height: 1.5;
+    color: #606c71;
+}
+
+.main_article_item_link {
+    color: #1e6bb8;
+    text-decoration: none;
+}
