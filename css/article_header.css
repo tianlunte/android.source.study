@@ -1,0 +1,15 @@
+#article_header_box {
+    padding: 1.2rem 4rem;
+    text-align: center;
+    color: #ffffff;
+    background: #159957 linear-gradient(120deg, #155799, #159957);
+}
+
+.article_header_title_1st {
+    font-size: 2.25rem;
+}
+
+.article_header_title_2nd {
+    font-size: 1.25rem;
+    opacity: 0.8;
+}
