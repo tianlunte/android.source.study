@@ -1,0 +1,29 @@
+#head_box {
+    padding: 3rem 4rem;
+    text-align: center;
+    color: #ffffff;
+    background: #159957 linear-gradient(120deg, #155799, #159957);
+}
+
+.head_title_1st {
+    font-size: 2.25rem;
+}
+
+.head_title_2nd {
+    font-size: 1.15rem;
+    opacity: 0.7;
+    margin-bottom: 2rem;
+}
+
+.head_title_name {
+    color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 0.3rem;
+    padding: 0.6rem 0.9rem;
+    text-decoration: none;
+}
+
+#main_box {
+    padding: 2rem 4rem;
+}
