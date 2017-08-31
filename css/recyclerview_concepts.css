@@ -8,3 +8,21 @@
 .head_title_1st {
     font-size: 2.25rem;
 }
+
+#main_box {
+    padding: 2rem 4rem;
+}
+
+.main_paragraph {
+    line-height: 1.6;
+}
+
+.main_paragraph_item_title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.main_paragraph_item_text {
+    font-size: 1.35rem;
+    margin-top: 0;
+}
