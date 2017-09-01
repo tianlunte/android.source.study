@@ -9,6 +9,21 @@
     margin: 0 0 0 0.6rem;
 }
 
+ul.field_ul {
+    padding: 0
+}
+
+ul.field_ul li {
+    list-style-type:none;
+}
+
+ul.field_ul li:before {
+    content: "•";
+    font-size: 200%;
+    padding-right: 10px;
+    vertical-align: top;
+}
+
 .field_name {
     font-size: 1.6rem;
     font-weight: 500;
