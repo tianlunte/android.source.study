@@ -1,0 +1,9 @@
+.body_box_segment {
+    width: 100%;
+}
+
+.body_box_segment_title {
+    padding: 0.2rem 0.8rem;
+    color: #ffffff;
+    background: linear-gradient(60deg, #2c2c30, #303036);
+}
