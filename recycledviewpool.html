@@ -27,7 +27,21 @@
                 <p class="field_dot_label">•</p>
                 <div class="field_after_dot_body">
                     <p class="field_name">mScrap</p>
-                    <p class="field_explain">a SparseArray, key of which is ViewType defined in Adapter</p>
+                    <p class="field_explain">
+                        a SparseArray, key of which is ViewType defined in Adapter, while value
+                        is a List of ViewHolders
+                    </p>
+                </div>
+            </div>
+
+            <div>
+                <p class="field_dot_label" style="background-color: #2c2c30">•</p>
+                <div class="field_after_dot_body" style="background-color: #ff0000">
+                    <p class="field_name">mMaxScrap</p>
+                    <p class="field_explain">
+                        a SparseIntArray, key of which is ViewType defined in Adapter, while value
+                        is the max count of ViewHolders to cache for this specific ViewType
+                    </p>
                 </div>
             </div>
         </div>
